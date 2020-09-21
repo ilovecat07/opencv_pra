@@ -1,3 +1,4 @@
+#include<Detector.hpp>
 void Detector::set_img(Mat img)
 {
 	cvtColor(img, img, COLOR_BGR2HSV);
