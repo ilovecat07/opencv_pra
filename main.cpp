@@ -1,6 +1,6 @@
 #include<opencv2/opencv.hpp>
 #include<iostream>
-#include<Detector.cpp>
+#include<Detector.hpp>
 
 using namespace cv;
 using namespace std;
